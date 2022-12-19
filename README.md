@@ -17,3 +17,7 @@ Button(action: {print("Hello, World!"}){
             
 
 ```
+
+All colors follow that same syntax, so you can access the tailwind background color `bg-indigo-500` by using `Tailwind.Color.indigo500`.
+
+Enjoy :) 
